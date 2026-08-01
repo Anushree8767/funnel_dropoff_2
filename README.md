@@ -59,7 +59,7 @@ The dataset contains event-level records with the following columns:
 ## 📷 Project Output
 
 ### 📒 Jupyter Notebook
--<a href="(https://github.com/Anushree8767/funnel_dropoff_2/blob/main/funnel_dropoff_2.ipynb)">funnel dropoff</a>
+-<a href="(https://github.com/Anushree8767/funnel_dropoff_2/blob/main/funnel_dropoff_2.ipynb)">funnel dropoff </a>
 
 ### 📊 Visualization
 <img width="1148" height="651" alt="Screenshot 2026-08-01 142854" src="https://github.com/user-attachments/assets/717d1565-9380-4e06-81b1-acf9b28ae19f" />
